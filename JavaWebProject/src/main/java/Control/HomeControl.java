@@ -12,7 +12,7 @@ import DAO.DAOProduct;
 import Entity.Product;
 
 /**
- * Servlet implementation class HomeControl Duong
+ * Servlet implementation class HomeControl Duong Duong
  */
 @WebServlet("/Home")
 public class HomeControl extends HttpServlet {
